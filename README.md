@@ -2,7 +2,7 @@
 
 This is a basic hello world program that demonstrates the ability to set up Visual Studio Code, Python, and Git/Github.
 
-Click on the link for a demo: [Software Demo Video](http://youtube.link.goes.here)
+Click on the link for a demo: [Software Demo Video](https://youtu.be/BvFPHYmsaIAe)
 
 # Development Environment
 
