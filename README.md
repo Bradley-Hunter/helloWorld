@@ -1,6 +1,6 @@
 # Overview
 
-This is a basic hello world program that demonstrates the ability to set up Visual Studio Code, Python, and Git/Github.
+This is a classic Hello World. The purpose was to demonstrate my development environment with Visual Studio Code, Python, and Git/Github.
 
 Click on the link for a demo: [Software Demo Video](https://youtu.be/BvFPHYmsaIAe)
 
